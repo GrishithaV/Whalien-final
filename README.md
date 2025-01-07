@@ -20,7 +20,5 @@ CSS: For styling and making the website visually appealing.
 JavaScript: To add interactivity and dynamic content.
 Bootstrap: For responsive design and layout adjustments across different screen sizes.
 
-## Volunteer
 
-Interested in helping clean beaches? Sign up on our website to get involved in our clean-up efforts and help save our oceans!
 
