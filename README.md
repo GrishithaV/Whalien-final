@@ -24,10 +24,17 @@ Encourages users to contribute towards preserving our oceans by using eco-friend
 
 ## Technologies Used
 
-**HTML:** For creating the structure of the website.
-**CSS:** For styling and making the website visually appealing.
-**JavaScript:** To add interactivity and dynamic content.
-**Bootstrap:** For responsive design and layout adjustments across different screen sizes.
+**HTML:** 
+For creating the structure of the website.
+
+**CSS:** 
+For styling and making the website visually appealing.
+
+**JavaScript:**
+To add interactivity and dynamic content.
+
+**Bootstrap:** 
+For responsive design and layout adjustments across different screen sizes.
 
 
 
